@@ -1,9 +1,15 @@
 const dreamHoliday = {
-    destination: '',
-    activity: '',
-    accommodation: '',
-    companion: ''
+    destination: 'switzerland',
+    activity: 'playing piano',
+    accommodation: 'house',
+    companion: 'wife'
 }
+
+const {destination, activity, accommodation, companion} = dreamHoliday
+
+
+console.log(`my dream place to have a nice holiday is ${destination}. wanna do my hobby's like ${activity} and stay at my ${accommodation} with my ${companion}.`)
+
 
 /*
 Challenge
