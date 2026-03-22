@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 1px;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#stock-ticker h2, p {
+    margin: 0;
+}
+
+#stock-ticker {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    background: white;
+    width: 20em;
+    height: 12em;
+    border-radius: 10px;
+    padding: 20px;
+    gap: 20px;
+}
+
+#price-tag {
+    display: flex;
+    flex-direction: row;
+}
