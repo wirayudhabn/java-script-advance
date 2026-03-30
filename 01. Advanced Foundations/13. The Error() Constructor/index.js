@@ -8,16 +8,16 @@ function checkUsername(username) {
     }
 }
 
- checkUsername()
+checkUsername()
 
- String()
- Number()
- Array()
- Object()
- Boolean()
+//  String()
+//  Number()
+//  Array()
+//  Object()
+//  Boolean()
 
-const person = new Object()
-person.name = 'denji'
-console.log(person)
+// const person = new Object()
+// person.name = 'denji'
+// console.log(person)
 
 
