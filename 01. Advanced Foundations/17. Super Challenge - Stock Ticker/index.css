@@ -37,3 +37,7 @@ p {
     display: flex;
     flex-direction: row;
 }
+
+#price-icon {
+    width: 5.5%;
+}

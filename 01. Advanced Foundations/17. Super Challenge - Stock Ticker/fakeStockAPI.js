@@ -9,4 +9,4 @@ function getStockData() {
     }
 }
 
-console.log(getStockData())
+export {getStockData}
